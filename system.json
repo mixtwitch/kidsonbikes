@@ -1,15 +1,15 @@
 {
-  "id": "boilerplate",
-  "title": "Boilerplate",
-  "description": "The Boilerplate system for FoundryVTT!",
-  "version": "1.2.0",
+  "id": "kidsonbikes",
+  "title": "Kids on Bikes",
+  "description": "The Kids on Bikes system for FoundryVTT!",
+  "version": "1.0.2",
   "compatibility": {
     "minimum": 10,
-    "verified": "10.287",
-    "maximum": 10
+    "verified": "11",
+    "maximum": 11
   },
   "authors": [{
-    "name": "Asacolips"
+    "name": "Jay"
   }],
   "esmodules": ["module/boilerplate.mjs"],
   "styles": ["css/boilerplate.css"],
